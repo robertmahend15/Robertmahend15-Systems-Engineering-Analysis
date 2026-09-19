@@ -3,7 +3,8 @@
 
 <h2>Aerospace Systems Safety Overview</h2>
 
--  Conducted a Preliminary Aircraft Safety Analysis (PASA) for the Joby Aviation JAS4-1 electric vertical takeoff and landing (eVTOL) aircraft, evaluating operational risks and vehicle-level safety requirements.
+
+- Conducted a Preliminary Aircraft Safety Analysis (PASA) for the Joby Aviation JAS4-1 electric vertical takeoff and landing (eVTOL) aircraft, evaluating operational risks and vehicle-level safety requirements.
 - Developed a comprehensive Concept of Operations (ConOps) defining mission requirements, flight profiles, system capabilities, and urban air mobility operational constraints.
 - Performed a Vehicle Functional Hazard Assessment (FHA) across all flight phases including takeoff, hover, transition, cruise, and landing to identify failure conditions and severity classifications.
 - Led safety evaluation of the critical hover stability function, analyzing hazards associated with loss of pitch, roll, thrust, and yaw control.

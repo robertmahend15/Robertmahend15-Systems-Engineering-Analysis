@@ -12,7 +12,7 @@
 - Established vehicle safety objectives and Functional Design Assurance Levels (FDALs) aligned with aerospace system safety methodologies.
 - Performed system-level analysis of a distributed electric propulsion architecture, evaluating redundancy, fault tolerance, and continued safe flight following propulsor failures.
 - Applied principles from ARP4754A, ARP4761, aircraft systems engineering, and risk-based design methodologies to assess aircraft safety and operational suitability.
-
+<br><br><br>
 <p align="center">
 Joby Air Taxi: <br/>
 <img src="https://i.imgur.com/asaf6xk.png" height="80%" width="80%" alt="Joby"/>
